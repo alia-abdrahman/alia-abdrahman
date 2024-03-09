@@ -2,7 +2,7 @@
 
 My name is Alia
 
-I am currently learning 🤖 automation testing using ☕️ Java programming language 
+I'm currently practising my 🤖 automation testing skills using Selenium as the testing framework and ☕️ Java as the programming language
 
 <!--
 **alia-abdrahman/alia-abdrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
