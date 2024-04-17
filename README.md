@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Alia!
 
-My name is Alia
-
-I'm currently practising my 🤖 automation testing skills using Selenium as the testing framework and ☕️ Java as the programming language
+🌟 Welcome to my GitHub profile! 🌟
 
 <!--
 **alia-abdrahman/alia-abdrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
