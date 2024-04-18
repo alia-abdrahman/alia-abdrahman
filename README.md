@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Alia!
 
-🌟 Welcome to my GitHub profile! 🌟
+#### 🌟 Welcome to my GitHub profile! 🌟
+
+Automation Testing • Java • Selenium • TestNG • Rest-Assured • Appium
 
 <!--
 **alia-abdrahman/alia-abdrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
