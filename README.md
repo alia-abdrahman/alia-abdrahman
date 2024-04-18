@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Alia!
-
-#### 🌟 Welcome to my GitHub profile! 🌟
+### Welcome,
 
 Automation Testing • Java • Selenium • TestNG • Rest-Assured • Appium
 
